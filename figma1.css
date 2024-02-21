@@ -365,14 +365,16 @@
 .popular_text{
     width: 400px;
     margin-bottom: 100px;
+    font-weight: lighter;
 
 }
 
 .popular_card{
     background-color: white;
-    width: 350px;
+    width: 315px;
     padding: 30px;
     color: black;
+    position: relative;
 
 }
 
@@ -382,16 +384,74 @@
 
 }
 
+.popular_card-price{
+    color: #FF6551;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 10px 0 0;
 
+}
 
+.popular_card-month{
+    color: #8EC2F2;
+    margin: 0;
+}
 
+.popular_cards{
+    display: flex;
+    justify-content: space-between;
 
+}
 
+.popular_card-button{
+    background: #FF6551;
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
 
+.features-list{
+    list-style:  none;
+    padding: 0;
 
+}
 
+.features-item{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
 
+}
+.features-item_icon{
+    margin-right: 10px;
+}
 
+.features_item-text{
+    font-weight: bold;
+}
 
+.new_item{
+    width: 90px;
+    height: 90px;
+    background-color: #E77C48;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    top: -25px;
+    right: -30px;
+    color: white;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    display: none;
+}
 
+.popular_card.new .new_item{
+    display: flex;
+}
 
