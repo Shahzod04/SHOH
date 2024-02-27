@@ -455,3 +455,139 @@
     display: flex;
 }
 
+.our_text{
+    color: #E74040;
+}
+
+.rasmlar{
+    display: flex;
+    justify-content: space-around;
+    padding: 150px;
+}
+
+.testimonials{
+    padding: 100px;
+}
+
+.our_text2{
+    font-size: 30px;
+}
+
+.our_text3{
+    width: 400px;
+    color: #737373;
+}
+
+.odam{
+    border-radius: 50%;
+}
+
+.rasmlar_text{
+    width: 300px;
+    color: #737373;
+}
+.birinchi{
+    align-items: center;
+    text-align: center;
+}
+
+.desinger{
+    color: #737373;
+}
+
+.miles{
+    font-weight: bold;
+}
+
+.newsletter_text{
+    color: #E74040;
+}
+
+.container2{
+    text-align: center;
+}
+
+.newsletter{
+    padding: 100px;
+}
+.newsletter_text2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nrwsletter_text3{
+    width: 300px;
+    color: #737373;
+    margin: auto;
+
+
+}
+.bb{
+    color: #737373;
+    width: 30%;
+    height: 50px;
+    background: #dcdada;
+    border: none;
+
+}
+
+.bbbb{
+    background: #E74040;
+    color: white;
+    padding: 20px 30px;
+    margin-left: -15px;
+    border: none;
+}
+.bosish{
+    font-size: 50px;
+    padding: 20px;
+
+}
+
+.sms{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 1px 20px 1px ;
+}
+
+.info1{
+    font-weight: bold;
+    color: black;
+}
+
+.licha{
+    list-style: none;
+    padding: 1px;
+    color: #737373;
+}
+
+.li1{
+    display: flex;
+    align-items: center;
+}
+
+.rasmcha{
+    padding-right: 10px;
+}
+
+.info{
+    color: #737373;
+}
+
+.kkk{
+    display: flex;
+    align-items: center;
+    background-color: #FAFAFA;
+    color: #737373;
+    height: 80px;
+    font-weight: bold;
+}
+
+.qush{
+  padding-left: 10px;
+}
+
+.sss{
+    display: flex;
+    padding-left: 750px;
+}
